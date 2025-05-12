@@ -10,4 +10,4 @@ A simple tool to decode JWT tokens without verifying the signature. Useful for d
 ## How to Run
 
 ```bash
-python src/jwt_decoder.py <Mukesh_chanambatla>
+python src/jwt_decoder.py <eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...>
